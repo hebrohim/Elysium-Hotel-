@@ -7,4 +7,9 @@ body,*{
   padding: 0;
 }
 
-
+.heroSection{
+  background: url("./images/j.png");
+font-size: 20rem;
+background-repeat: no-repeat;
+background-size: contain;
+}
