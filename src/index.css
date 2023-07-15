@@ -5,11 +5,11 @@
 body,*{
   margin: 0;
   padding: 0;
+ /* background-color: rgba(85, 66, 8, 0.60); */
 }
-
+/* 
 .heroSection{
-  background: url("./images/j.png");
-font-size: 20rem;
-background-repeat: no-repeat;
-background-size: contain;
-}
+  background: url("./images/HeroSectionImage.png");
+  background-size: cover;
+
+} */
