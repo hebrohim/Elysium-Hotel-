@@ -13,3 +13,13 @@ body,*{
   background-size: cover;
 
 } */
+
+
+input {
+  color-scheme: dark;
+}
+input:focus{
+border: none;
+border-collapse: collapse;
+outline: none;
+}
