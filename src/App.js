@@ -1,3 +1,4 @@
+import About from "./components/About";
 import BookingSection from "./components/BookingSection";
 import HeroSection from "./components/HeroSection";
 import NavBar from "./components/NavBar";
@@ -9,6 +10,7 @@ return(
 <NavBar/>
 <HeroSection/>
 <BookingSection/>
+<About/>
   </div>
   
   )
