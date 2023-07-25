@@ -25,7 +25,7 @@ const OfferSection = () => {
         <img src={offerDesktop} className=" w-[60%] ml-10 hidden lg:block" />
      
 
-      <section className=" mt-3 lg:h-[75vh] lg:overflow-y-scroll">
+      <section className=" mt-3 lg:h-[70vh] lg:overflow-y-scroll">
         <SingleOffer
           image={family}
           tittle="Family Fun Package"
