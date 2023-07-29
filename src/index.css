@@ -46,3 +46,9 @@ border: none;
 border-collapse: collapse;
 outline: none;
 }
+
+#active{
+  background-color: transparent;
+  
+}
+

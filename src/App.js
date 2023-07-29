@@ -4,6 +4,7 @@ import HeroSection from "./components/HeroSection";
 import NavBar from "./components/NavBar";
 import OfferSection from "./components/OfferSection";
 import AmenitySection from "./components/AmenitySection";
+import TestimonySection from "./components/TestimonySection";
 function App() {
 return(
 <div>
@@ -14,7 +15,7 @@ return(
 <About/>
 <OfferSection/>
 <AmenitySection/>
-
+<TestimonySection/>
   </div>
   
   )

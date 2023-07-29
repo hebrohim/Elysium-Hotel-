@@ -13,8 +13,8 @@ const AmenitySection = () => {
     <div className="px-6 py-4 lg:pl-0 lg:translate-y-[-14%]">
       <div className="lg:translate-y-24 lg:flex lg:flex-row-reverse ">
         <div>
-        <p className="text-[#8C949F] text-[20px]  ">Our Amenities</p>
-        <p className="text-[20px] my-2 font-bold">
+        <p className="text-[#8C949F]  ">Our Amenities</p>
+        <p className="text-[20px] my-2 font-semibold">
           Unmatched Comfort and Convenience
         </p>
         </div>

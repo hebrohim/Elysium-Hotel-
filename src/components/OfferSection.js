@@ -12,10 +12,11 @@ const OfferSection = () => {
   return (
     <div className="px-6 py-4 lg:pr-0 lg:translate-y-[-14%]">
         <div className="lg:translate-y-24">
-        <p className="text-[#8C949F] text-[20px] ">
+        <p className="text-[#8C949F] ">
           Unforgettable Offers Await
         </p>
-        <p className="text-[20px] my-2 font-bold">
+        <p className="text-[20px] my-2 font-semibold">
+        
           Discover Exclusive Deals Now
         </p>
         </div>

@@ -1,7 +1,7 @@
 import React from 'react'
 
 const SingleOffer = ({image,tittle,content}) => {
-console.log(tittle)
+
   
   return (
     <div className='w-full text-sm flex justify-between p-2 mb-3 bg-[#f3f1f1] rounded-lg'>
