@@ -5,7 +5,7 @@ import twitter from "../images/twitter.png"
 import Logo from"../images/Logo.png"
 const Footer = () => {
   return (
-    <footer>
+    <footer className='text-sm lg:text-base lg:px-20'>
     <div className=' px-4 py-10 lg:flex lg:justify-between'>
         <div className='hidden lg:block'>
 <img src={Logo}/>
@@ -45,7 +45,7 @@ const Footer = () => {
 </div>
 
 
-<section className='mt-7 flex justify-center items-center'>
+<section className='m-7 flex justify-center items-center'>
      
         <img src= {instagram} className='mr-6'/>
         <img src= {facebook} className='mr-6'/>
